@@ -36,15 +36,16 @@ sizes: ["30", "32", "34", "36", "38"],
 stock: 6
 },
 {
-id: 4,
-name: "Premium Shoes",
-category: "SHOES",
-price: 4500,
-description: "Premium shoes to complete your look.",
-images: ["assets/product-04.jpg.jfif"],
-sizes: ["40", "41", "42", "43", "44"],
-stock: 5
+    id: 4,
+    name: "Premium Shoes",
+    category: "SHOES",
+    price: 4500,
+    images: ["assets/product-04.jpg.jfif"],
+    sizes: ["40", "41", "42", "43", "44"],
+    stock: 5
 }
+
+
 ];
 
 
